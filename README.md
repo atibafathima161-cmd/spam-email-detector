@@ -52,3 +52,7 @@ python spam_detector.py
 * Recall Score
 * F1 Score
 * Confusion Matrix Heatmap
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
